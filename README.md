@@ -22,3 +22,10 @@ One of the oldest port cities of India, Vizag is located at the heart of Andhra 
 2. We savored the finest street food at that location.
 3. We had a great time exploring the caves.
 
+
+- Favorite Food Items
+    - Bongu Chicken
+    - Spicy Venue Apricot Delight
+    - Mekong Coconut Jaggery Ice Cream
+
+
