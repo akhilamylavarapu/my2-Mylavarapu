@@ -15,4 +15,10 @@ One of the oldest port cities of India, Vizag is located at the heart of Andhra 
 **RK Beach**
 
 
+---
+### Favorite Vacation Spot Activities
+
+1. Having fun at the beach.
+2. We savored the finest street food at that location.
+3. We had a great time exploring the caves.
 
