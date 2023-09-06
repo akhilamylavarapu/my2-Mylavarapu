@@ -40,3 +40,13 @@ For additional information about me, kindly explore [MyStats](MyStats.md)
 | badminton  | It's a sport that people of different fitness levels can enjoy                                | 10 Hours per week |
 | Basketball       |Basketball is a team sport that emphasizes collaboration and teamwork.                                |       6 Hours per week           |
 | Football   | Playing on a football team helps develop valuable teamwork and leadership skills.                                  | 5 Hours per week              |
+
+---
+
+# Quotes by scientists
+
+> Chance only favors the prepared mind. - *By Louis Pasteur*.
+                                                   
+> If you don’t do the best with what you have, you could never have done better with what you could have had. - *By Ernest Rutherford*.
+
+
