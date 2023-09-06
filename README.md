@@ -28,4 +28,7 @@ One of the oldest port cities of India, Vizag is located at the heart of Andhra 
     - Spicy Venue Apricot Delight
     - Mekong Coconut Jaggery Ice Cream
 
+For additional information about me, kindly explore [MyStats](MyStats.md)
+
+
 
