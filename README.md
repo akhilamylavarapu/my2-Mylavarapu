@@ -28,7 +28,15 @@ One of the oldest port cities of India, Vizag is located at the heart of Andhra 
     - Spicy Venue Apricot Delight
     - Mekong Coconut Jaggery Ice Cream
 
-For additional information about me, kindly explore [MyStats](MyStats.md)
+For additional information about me, kindly explore [MyStats](MyStats.md) 
 
 
+---
+# Recommend Sports
 
+
+| Sport      | Reason to Recommend Sport | Hours per week |
+|:----       |   :----                   | ---:           |
+| badminton  | It's a sport that people of different fitness levels can enjoy                                | 10 Hours per week |
+| Basketball       |Basketball is a team sport that emphasizes collaboration and teamwork.                                |       6 Hours per week           |
+| Football   | Playing on a football team helps develop valuable teamwork and leadership skills.                                  | 5 Hours per week              |
