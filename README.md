@@ -57,7 +57,7 @@ For additional information about me, kindly explore [MyStats](MyStats.md)
 > HTML5 Page Structure: Section and Article correct placement
 
 Stack overflow link for above question: <https://stackoverflow.com/questions/51609208/html5-page-structure-section-and-article-correct-placement>
-### HTML code
+# HTML code
 ---
 
 ```
@@ -115,7 +115,6 @@ Stack overflow link for above question: <https://stackoverflow.com/questions/516
 </article>
 
 ```
-
 Link for above code : <https://css-tricks.com/snippets/html/html5-article-structure-with-hnews/>
 
 
